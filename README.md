@@ -10,7 +10,7 @@ declare the function prototypes, the given 3 functions
 
 ### begin with function1, advance 
 
-using std random statement given, geneate 2 options for random numbers
+using std random statement given, generate 2 options for random numbers
 like tossing a coin.
 if the coin if 1, horse moves.
 

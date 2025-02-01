@@ -2,7 +2,7 @@
 // final draft //
 ## Algorithm
 
-iinclude the io and random libraries
+include the io and random libraries
 
 declare the constants
 

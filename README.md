@@ -1,6 +1,6 @@
 # CS121_project3
 // final draft //
-##Algorithm
+## Algorithm
 
 iinclude the io and random libraries
 
